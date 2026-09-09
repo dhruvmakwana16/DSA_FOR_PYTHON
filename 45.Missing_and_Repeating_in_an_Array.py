@@ -13,5 +13,5 @@ def findTwoElements(self, arr, n):
             missing = i
 
     return (repeated, missing)
-
+4
 print(findTwoElements(None, [4, 3, 6, 2, 1, 1], 6))  # Output: (1, 5)
